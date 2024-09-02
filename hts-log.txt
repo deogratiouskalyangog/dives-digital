@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 Aug 2024 15:45:33 at https://apps.nakeddev.com/clutch?utm_medium=referral_profile&utm_source=clutch.co +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://apps.nakeddev.com/clutch?utm_medium=referral_profile&utm_source=clutch.co
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://apps.nakeddev.com/clutch?utm_medium=referral_profile&utm_source=clutch.co -O1 "D:\My Sites\HTTracker\Code" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://apps.nakeddev.com/clutch?utm_medium=referral_profile&utm_source=clutch.co )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:46:34	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://stats.sprocketrocket.co/js/analytics.js
+15:47:02	Error: 	"Not Found" (404) at link https://apps.nakeddev.com/NakedDev_September2023/templates/partials/footer.html (from https://apps.nakeddev.com/cal-clutch)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 30 seconds : 125 links scanned, 123 files written (3250132 bytes overall) [1881267 bytes received at 20902 bytes/sec], 2137955 bytes transferred using HTTP compression in 42 files, ratio 23%, 7.9 requests per connection
+(1 errors, 1 warnings, 0 messages)

@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+apps.nakeddev.com	TRUE	/	FALSE	1999999999	hs_ab_test	142960647810:142960647812
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	nugK2g2nzT7fqnXGqTUXGa6fewa9CWOpdcNU6amA0dk-1725022019-1.0.1.1-8Q_.m71sDDwM4GPfjWoKAUBtl2gXuBrmQv0Y673azYSoWvw_89zy__nOVpHKq2AYxO2gl7Ikoo9ZctHiegKoJA
+.apps.nakeddev.com	TRUE	/	FALSE	1999999999	__cf_bm	OTiz3q9QWKs9CSXDnMXcFwiU7jlvX_eRDvYPP.R_lws-1725022022-1.0.1.1-9zMSKsSHiQiHLKXjN0kGZhvKeAm_ZevKMciwEdojymAMGYZOUNo_m9YfbCsfmBjBSkUzKGjqxnmTPXjSpgNd6A
+.apps.nakeddev.com	TRUE	/	FALSE	1999999999	__cfruid	33a2f998cfa1f3069762d197dff7d038488d5e6b-1725022022
+apps.nakeddev.com	TRUE	/	FALSE	1999999999	SameSite	None
+
